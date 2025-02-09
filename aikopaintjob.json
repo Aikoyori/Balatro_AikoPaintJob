@@ -1,0 +1,22 @@
+{
+	"id": "aikoyoripaintjob",
+	"name": "Aikoyori Paint Job",
+	"author": ["Aikoyori"],
+	"description": "Retexture some joker cards for Balatro",
+	"prefix": "akyrpj",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "b9ff40",
+	"badge_text_colour": "022b25",
+	"display_name": "AikoPaintJob",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (*)", 
+		"Lovely (*)", 
+		"malverk", 
+		"Balatro (>=1.0.1m)"],
+	"conflicts": [
+	],
+	"provides": [
+	]
+}
